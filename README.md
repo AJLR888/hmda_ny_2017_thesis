@@ -38,7 +38,7 @@
 			b) Model evaluation was done on Google Collab, the data set used is "hmdaNY_02092024_1603_Ready_2.csv"
 
 
-4.- Originally, the datasets couldn't be uploaded due to their size. The system collapsed. We are sharing the link here (please, copy & paste on the address bar):
+4.- We are sharing the link here (please, copy & paste on the address bar):
 
 https://cityuni-my.sharepoint.com/:f:/g/personal/antonio-jose_lopez-roldan_city_ac_uk/Et6UfMqgEPxJqdrBNETgFFYBaX1gXV84cuk621cImHFFiA?e=Gixqdh
 
